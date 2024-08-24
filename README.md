@@ -4,7 +4,7 @@ Olá!
 
 🌱 Sou biologo de formação, amo florestas e muita natureza.
 
-🗺️ Há muito trabalho com geotecnologia e por consequência com muita tecnologia. Desenvolvo produtos a focado em dados espaciais.
+🗺️ Há muito trabalho com geotecnologia e por consequência com muita tecnologia. Desenvolvo produtos focados em dados espaciais (não somente isso).
 
 🔨 Trabalho no núcleo de Inovação e Análise de Dados do Instituto de Meio Ambiente e Recursos Hídricos do Estado da Bahia.
 
